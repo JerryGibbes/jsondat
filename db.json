@@ -1,0 +1,12 @@
+{
+    "medewerkers": [
+      {
+        "mdw_id":11,
+        "mdw_naam":"Nemuel Gibbes",
+        "mdw_functie":"teamleider"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
