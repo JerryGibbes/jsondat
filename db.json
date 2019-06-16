@@ -4,6 +4,21 @@
         "mdw_id":11,
         "mdw_naam":"Nemuel Gibbes",
         "mdw_functie":"teamleider"
+      },
+      {
+        "mdw_id":12,
+        "mdw_naam":"Rudy",
+        "mdw_functie":"Monteur"
+      },
+      {
+        "mdw_id":13,
+        "mdw_naam":"Jos",
+        "mdw_functie":"Tekenaar"
+      },
+      {
+        "mdw_id":14,
+        "mdw_naam":"Rody",
+        "mdw_functie":"Werkplaats Monteur"
       }
     ],
     "profile": {
